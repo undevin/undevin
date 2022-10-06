@@ -5,5 +5,5 @@ My name is Devin. I've been working in IT for about 10 years. Lately I've been l
 - 🔭 I'm currently working as a Sr Systems Adminisrator. I build iOS and ReactJS apps on the side! 
 - 🌱 I’m learning swift, Javascript, Typescript, ReactJS, bash, powershell and more!
 - 💬 Ask me about anything!
-- 📫 The best way to reach me is emailing me at devinlflora@gmail.com or <a href="https://twitter.com/DevinFlora">@oof_devin</a> on Twitter!
+- 📫 The best way to reach me is emailing me at devinlflora@gmail.com or <a href="https://twitter.com/oof_devin">@oof_devin</a> on Twitter!
 
